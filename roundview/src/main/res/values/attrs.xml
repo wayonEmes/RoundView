@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RoundView">
+        <attr name="rv_backgroundColor" format="reference|color" />
+        <attr name="rv_borderColor" format="reference|color" />
+        <attr name="rv_borderWidth" format="dimension" />
+        <attr name="rv_isRadiusAdjustBounds" format="boolean" />
+        <attr name="rv_radius" format="dimension" />
+        <attr name="rv_radiusTopLeft" format="dimension" />
+        <attr name="rv_radiusTopRight" format="dimension" />
+        <attr name="rv_radiusBottomLeft" format="dimension" />
+        <attr name="rv_radiusBottomRight" format="dimension" />
+        <attr name="rv_gradientStartColor" format="reference|color" />
+        <attr name="rv_gradientEndColor" format="reference|color" />
+        <attr name="rv_gradientAngle" format="integer" />
+    </declare-styleable>
+</resources>

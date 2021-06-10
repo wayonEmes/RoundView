@@ -1,0 +1,3 @@
+rootProject.name = "RoundView"
+include ':sample'
+include ':roundview'
